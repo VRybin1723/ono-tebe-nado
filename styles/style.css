@@ -287,10 +287,6 @@ address {
   justify-content: space-between;
 }
 
-.footer__address {
-  min-height: 105px;
-}
-
 .footer__menu {
   display: flex;
   flex-direction: column;
